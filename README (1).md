@@ -3,8 +3,8 @@
 
 ---
 
-**Student Name:** [Rishi Pandey]  
-**Registration Number:** [24BAI10838]  
+**Student Name:** [MANISH]  
+**Registration Number:** [24BAI10899]  
 **Chosen Software:** Git (Version Control System)  
 **Course:** Open Source Software (NGMC)
 
